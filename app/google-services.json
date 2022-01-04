@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "967217744305",
+    "firebase_url": "https://voting-fc1ef-default-rtdb.asia-southeast1.firebasedatabase.app",
     "project_id": "voting-fc1ef",
     "storage_bucket": "voting-fc1ef.appspot.com"
   },
