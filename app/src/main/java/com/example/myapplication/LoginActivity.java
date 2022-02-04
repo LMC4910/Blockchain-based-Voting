@@ -25,4 +25,8 @@ public class LoginActivity extends AppCompatActivity {
         overridePendingTransition(R.anim.slide_in_right,R.anim.stay);
 
     }
+
+    public void Login(View view) {
+        Toast.makeText(getApplicationContext(),"Login Clicked",Toast.LENGTH_SHORT).show();
+    }
 }
